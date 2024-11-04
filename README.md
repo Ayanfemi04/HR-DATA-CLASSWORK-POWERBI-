@@ -12,6 +12,8 @@ The data set for analysis used for this project is the Human Resource data (HR d
            iii.For Data Visualisation
 
    .SQL-Structured Query Language for data querying
+
+   #####Data Cleaning and Preparation
  
    .Github for portfolio building
  
