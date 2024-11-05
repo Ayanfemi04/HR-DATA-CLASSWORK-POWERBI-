@@ -19,13 +19,14 @@ The data set for analysis used for this project is the Human Resource data (HR d
  
    .Microsoft Powerbi for Data Cleaning, Analysis and Visualization
 
-TABLE 1SUMMARY BY REGION AND SUM OF UNIT SOLD
+TABLE 1  SUMMARY BY REGION AND SUM OF UNIT SOLD
 ![image](https://github.com/user-attachments/assets/dc3002a7-43bd-4b2a-a3e9-0c51c69daa4c)
 ---
-TABLE 2 REGION NUMBER NY SALES CATEGORY
+TABLE 2  MAP VISUALISATION
 ![image](https://github.com/user-attachments/assets/532ef138-55a5-442c-96e7-c92878bad324)
 ---
-TABLE 3 MAP VISUALISATION
+TABLE 3 SALES CATEGORY BY REGION
+
 ![image](https://github.com/user-attachments/assets/c40c5707-460d-46f8-99f9-4fffcc3ca4e6)
 ---
 TABLE 4 TOTAL NUMBER OF EMPLOYEE AND ATTRITION
