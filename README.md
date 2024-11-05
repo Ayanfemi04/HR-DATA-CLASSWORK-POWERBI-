@@ -22,5 +22,9 @@ The data set for analysis used for this project is the Human Resource data (HR d
 
 ![image](https://github.com/user-attachments/assets/dc3002a7-43bd-4b2a-a3e9-0c51c69daa4c)
 
+![image](https://github.com/user-attachments/assets/532ef138-55a5-442c-96e7-c92878bad324)![image](https://github.com/user-attachments/assets/d380b68b-eaff-450b-9e63-91c0b0328f5c)
+
+
+
 
 
