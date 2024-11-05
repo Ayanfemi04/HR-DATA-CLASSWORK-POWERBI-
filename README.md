@@ -44,6 +44,7 @@ After analysing the data, it was observed that the  male employees with a total 
 ### CONCLUSION
 
 
+![image](https://github.com/user-attachments/assets/5a42755f-af8c-49a7-9647-47710f725e3d)
 
 
 
