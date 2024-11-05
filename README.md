@@ -13,8 +13,14 @@ The data set for analysis used for this project is the Human Resource data (HR d
 
    .SQL-Structured Query Language for data querying
 
-   #####Data Cleaning and Preparation
+   ##### Data Cleaning and Preparation
  
    .Github for portfolio building
  
    .Microsoft Powerbi for Data Cleaning, Analysis and Visualization
+
+
+![image](https://github.com/user-attachments/assets/dc3002a7-43bd-4b2a-a3e9-0c51c69daa4c)
+
+
+
