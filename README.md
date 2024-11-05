@@ -42,10 +42,15 @@ After analysing the data, it was observed that the  male employees with a total 
 -The Job satisfactory rating helped us to visualize the number of the employee who were releaved of their jobs due to low performance. 46 out of the 237 staff on attrition had a satifactory rating of Very Dissatisfied, 66 of the staff were Dissatisfied.
 
 ### CONCLUSION
+
 We can conclude that the attrition rate is higher in research and development where the average age of the men there are around 37 years. The reasons might be because
+
 -1 These men are probably married and needed more income 
+
 -2 They leave as a result of important discovery during their researches with which they can become their own boss.
+
 -3 If they are exposed to leaving the country during researches, they have probably decided to relocate after exploring other countries.
+
 -Majority of the male staff werer disatisfied or very dissatisfied with their job
 
 
