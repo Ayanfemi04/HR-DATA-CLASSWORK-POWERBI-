@@ -35,6 +35,14 @@ TABLE 4 TOTAL NUMBER OF EMPLOYEE AND ATTRITION
 Table 5 ATTRITION BASED ON AGE GROUP
 ![image](https://github.com/user-attachments/assets/91aa1675-e67c-4ffc-a726-8ee106c64317)
 
+After analysing the data, it was observed that the  male employees with a total number ..882 has a higher attrition rate, and a good number of them were in Research and Development Department and their average age is 37.
+
+-Total number of attrition = 150 -Total number of current employee = 732 -The average age is 37. 
+
+-The Job satisfactory rating helped us to visualize the number of the employee who were releaved of their jobs due to low performance. 46 out of the 237 staff on attrition had a satifactory rating of Very Dissatisfied, 66 of the staff were Dissatisfied.
+
+### CONCLUSION
+
 
 
 
